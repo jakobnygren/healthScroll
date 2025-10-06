@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health Scrolls</title>
-    <link>https://health-scroll.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Health Scrolls</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 17:27:46 +0200</lastBuildDate>
-    <atom:link href="https://health-scroll.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vitamin C – The Forgotten Flame</title>
-      <link>https://health-scroll.netlify.app/posts/vitamin-c-flame/</link>
+      <link>http://localhost:1313/posts/vitamin-c-flame/</link>
       <pubDate>Mon, 06 Oct 2025 17:27:46 +0200</pubDate>
-      <guid>https://health-scroll.netlify.app/posts/vitamin-c-flame/</guid>
+      <guid>http://localhost:1313/posts/vitamin-c-flame/</guid>
       <description>&lt;p&gt;Vitamin C (ascorbic acid) is often dismissed as “just” an antioxidant, yet it is a cornerstone molecule in the architecture of human vitality&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

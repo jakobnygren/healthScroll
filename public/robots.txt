@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://health-scroll.netlify.app/sitemap.xml
+Disallow: /
