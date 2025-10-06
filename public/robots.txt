@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: health-scroll.netlify.app/sitemap.xml
