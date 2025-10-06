@@ -1,4 +1,4 @@
-baseURL = "https://health-scroll.netlify.app/"
+baseURL = "/"
 title = "Health Scrolls"
 # theme = "PaperMod"
 # theme = 'ananke'
