@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/health/</loc>
+    <loc>https://health-scroll.netlify.app/tags/health/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://health-scroll.netlify.app/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://health-scroll.netlify.app/posts/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scroll/</loc>
+    <loc>https://health-scroll.netlify.app/tags/scroll/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://health-scroll.netlify.app/tags/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/vitamin-c-flame/</loc>
+    <loc>https://health-scroll.netlify.app/posts/vitamin-c-flame/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vitamin-c/</loc>
+    <loc>https://health-scroll.netlify.app/tags/vitamin-c/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://health-scroll.netlify.app/categories/</loc>
   </url>
 </urlset>
