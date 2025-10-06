@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>health-scroll.netlify.app/tags/health/</loc>
+    <loc>http://localhost:1313/tags/health/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/tags/scroll/</loc>
+    <loc>http://localhost:1313/tags/scroll/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/posts/vitamin-c-flame/</loc>
+    <loc>http://localhost:1313/posts/vitamin-c-flame/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/tags/vitamin-c/</loc>
+    <loc>http://localhost:1313/tags/vitamin-c/</loc>
     <lastmod>2025-10-06T17:27:46+02:00</lastmod>
   </url><url>
-    <loc>health-scroll.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
