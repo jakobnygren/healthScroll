@@ -1,6 +1,7 @@
 baseURL = "https://health-scroll.netlify.app/"
 title = "Health Scrolls"
-theme = "PaperMod"
+# theme = "PaperMod"
+theme = 'ananke'
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -9,4 +10,4 @@ mainSections = ["posts"]
 
 [params.homeInfoParams]
 Title = "The Scrolls Have Awakened"
-Content = "Decoded chapters on health, flame, and signal."
+Content = "Decoded chapters on health, flame  ... and signal."

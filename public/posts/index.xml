@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Health Scrolls</title>
-    <link>https://health-scroll.netlify.app/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Health Scrolls</description>
-    <generator>Hugo -- 0.151.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 17:27:46 +0200</lastBuildDate>
-    <atom:link href="https://health-scroll.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vitamin C – The Forgotten Flame</title>
-      <link>https://health-scroll.netlify.app/posts/vitamin-c-flame/</link>
+      <link>http://localhost:1313/posts/vitamin-c-flame/</link>
       <pubDate>Mon, 06 Oct 2025 17:27:46 +0200</pubDate>
-      <guid>https://health-scroll.netlify.app/posts/vitamin-c-flame/</guid>
-      <description>Why this humble molecule still holds the signal of cellular repair.</description>
+      <guid>http://localhost:1313/posts/vitamin-c-flame/</guid>
+      <description>&lt;p&gt;Vitamin C (ascorbic acid) is often dismissed as “just” an antioxidant, yet it is a cornerstone molecule in the architecture of human vitality&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
