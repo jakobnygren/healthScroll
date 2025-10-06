@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Health Scrolls</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://health-scroll.netlify.app/tags/</link>
     <description>Recent content in Tags on Health Scrolls</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 17:27:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://health-scroll.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health</title>
-      <link>http://localhost:1313/tags/health/</link>
+      <link>https://health-scroll.netlify.app/tags/health/</link>
       <pubDate>Mon, 06 Oct 2025 17:27:46 +0200</pubDate>
-      <guid>http://localhost:1313/tags/health/</guid>
+      <guid>https://health-scroll.netlify.app/tags/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Scroll</title>
-      <link>http://localhost:1313/tags/scroll/</link>
+      <link>https://health-scroll.netlify.app/tags/scroll/</link>
       <pubDate>Mon, 06 Oct 2025 17:27:46 +0200</pubDate>
-      <guid>http://localhost:1313/tags/scroll/</guid>
+      <guid>https://health-scroll.netlify.app/tags/scroll/</guid>
       <description></description>
     </item>
     <item>
       <title>Vitamin-C</title>
-      <link>http://localhost:1313/tags/vitamin-c/</link>
+      <link>https://health-scroll.netlify.app/tags/vitamin-c/</link>
       <pubDate>Mon, 06 Oct 2025 17:27:46 +0200</pubDate>
-      <guid>http://localhost:1313/tags/vitamin-c/</guid>
+      <guid>https://health-scroll.netlify.app/tags/vitamin-c/</guid>
       <description></description>
     </item>
   </channel>
