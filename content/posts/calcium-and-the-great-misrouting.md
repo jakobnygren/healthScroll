@@ -1,3 +1,11 @@
++++
+date = '2025-10-06T17:27:46+02:00'
+draft = true
+title = "Calcium and the Great Misrouting"
+description = "Why this molecule can cause so much chaos."
+tags = ["health", "calcium"]
++++
+
 ## Calcium & The Great Misrouting
 
 A Vault Chapter for Reversing Biological Sabotage and Restoring Conductivity

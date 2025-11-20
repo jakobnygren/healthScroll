@@ -1,13 +1,22 @@
 baseURL = "/"
-title = "Health Scrolls"
-# theme = "PaperMod"
-# theme = 'ananke'
+title = "Health Articles"
+theme = "PaperMod"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 
 mainSections = ["posts"]
+sectionPagesMenu = 'main'
+
+[params.assets]
+customCSS = ["css/custom.css"]
 
 [params.homeInfoParams]
-Title = "The Scrolls Have Awakened"
-Content = "Decoded chapters on health, flame  ... and signal."
+Title = "Biological Sabotage & Terrain Recovery"
+Content = """Evidence-backed articles exploring environmental toxins, nutrient protocols, and bioelectric restoration. Integrating emerging research with reflective insight to support terrain-based health.
+
+---
+
+**Disclaimer**:
+This site is for informational and educational purposes only and does not constitute medical advice. The material presented here is based on published research, clinical observations, and historical use. Always consult a qualified healthcare professional before beginning any new supplement or health protocol, especially if you have preexisting conditions or are on medication.
+"""

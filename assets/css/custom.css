@@ -1,0 +1,43 @@
+/* === Revision Highlights === */
+
+body { background-color: #111 !important; }
+
+/* ✅ New content added (green tone) */
+.update-new {
+    color: #2ecc71;
+    font-weight: 500;
+}
+.update-new::before {
+    content: "🟩 ";
+}
+
+/* 🔷 Recently edited or clarified (blue tone) */
+.update-edited {
+    color: #3498db;
+    font-weight: 500;
+}
+.update-edited::before {
+    content: "🟦 ";
+}
+
+/* 🟧 Needs verification or under review (orange tone) */
+.update-review {
+    color: #e67e22;
+    font-weight: 500;
+}
+.update-review::before {
+    content: "🟧 ";
+}
+
+/* Optional subtle fade for print or “clean” mode */
+body.clean .update-new,
+body.clean .update-edited,
+body.clean .update-review {
+    color: inherit;
+    font-weight: inherit;
+}
+body.clean .update-new::before,
+body.clean .update-edited::before,
+body.clean .update-review::before {
+    content: "";
+}

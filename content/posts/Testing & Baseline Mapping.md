@@ -1,15 +1,12 @@
-
-Here’s a **first draft chapter** in Markdown, pulling together everything we’ve discussed about testing. It’s structured, but still flexible so we can expand and refine later:
-
----
-
-# **Chapter X — Testing & Baseline Mapping**
-
-  
++++
+date = '2025-10-09T17:27:46+02:00'
+draft = true
+title = "Testing & Baseline Mapping"
+description = "..."
+tags = ["health", "testing"]
++++
 
 ### **Why Testing Matters**
-
-  
 
 Modern life exposes us to hidden toxins, nutritional gaps, and endocrine disruptors. Symptoms often appear long before “standard bloodwork” shows anything abnormal.
 
@@ -155,14 +152,8 @@ That’s why the **tiered approach matters**:
 
 ## **Final Reflection**
 
-  
-
 Testing is not a replacement for listening to your body.
 
 But it can reveal blind spots, validate intuition, and guide targeted interventions.
 
 In the Health Scrolls, we treat testing as a **map of conductivity** — showing where interference accumulates, and where restoration is most needed.
-
----
-
-Would you like me to also add a **short practical “If you only do 1 test, start here”** section at the end, so it’s easier for readers who get overwhelmed?
