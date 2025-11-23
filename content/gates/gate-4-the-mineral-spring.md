@@ -1,6 +1,6 @@
 +++
 weight = 4
-date = '2025-10-13T14:10:00+02:00'
+date = "2025-10-13T14:10:00+02:00"
 draft = true
 title = "Gate 4 – The Mineral Spring"
 description = "Restoring electrolyte and mineral flow through conductive waters. Focus: potassium, sodium, magnesium, boron, trace minerals, Quinton."

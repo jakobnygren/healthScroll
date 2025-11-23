@@ -1,6 +1,6 @@
 +++
-date = '2025-11-23T12:23:46+02:00'
-draft = true
+date = "2025-11-23T12:23:46+02:00"
+draft = false
 title = "Zinc And The Metal Quadrant Collapse Matrix"
 description = ""
 tags = []

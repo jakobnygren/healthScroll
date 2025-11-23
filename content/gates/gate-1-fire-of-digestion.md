@@ -1,6 +1,6 @@
 +++
 weight = 1
-date = '2025-10-13T12:27:46+02:00'
+date = "2025-10-13"
 draft = false
 title = "Gate 1 – The Fire of Digestion"
 description = "Where all healing begins: restoring stomach acid, enzymes, and the sacred fire of digestion."

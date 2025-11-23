@@ -2,7 +2,7 @@
 weight = 3
 title = "Gate 3 – The Bile River"
 description = "Unclogging the liver, thinning bile, and reopening detox pathways."
-date = 2025-10-13T00:00:00+02:00
+date = "2025-10-13T00:00:00+02:00"
 draft = true
 tags = ["health", "liver", "bile", "detox", "fat metabolism"]
 +++

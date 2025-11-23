@@ -1,7 +1,7 @@
 +++
 weight = 7
 title = "Gate 7 – The Lymphatic Wind"
-date = 2025-10-13T14:00:00+02:00
+date = "2025-10-13"
 draft = true
 description = "Unblocking the fluid winds of the lymph to cleanse terrain, carry waste, and circulate immune signals."
 tags = ["health", "lymph", "detox", "immune"]

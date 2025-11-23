@@ -1,5 +1,5 @@
 +++
-date = '2025-10-10T19:45:00+02:00'
+date = "2025-10-10T19:45:00+02:00"
 draft = false
 title = "Dr. Fredrick Klenner – Voltage Medicine Before Its Time"
 description = "The forgotten physician who treated infection, pregnancy, and paralysis with the body’s own electrical fuel — vitamin C."

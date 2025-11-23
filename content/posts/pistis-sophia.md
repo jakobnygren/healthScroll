@@ -1,3 +1,10 @@
++++
+title = "Pistis Sophia"
+date = "2025-10-13T00:00:00+02:00"
+draft = true
+tags = ["pistis-sophia"]
++++
+
 IT came to pass, when Jesus had risen from the dead, that he passed eleven years discoursing with his disciples, and instructing them only up to the regions of the First Commandment and up to the regions of the First 🔑Mystery, that within the Veil, within the First Commandment, which is the four-and-twentieth 🔑mystery without and below--those [four-and-twenty] which are in the second space of the First 🔑Mystery which is before all mysteries,--the Father in the form of a dove.
 
 And Jesus said to his disciples: "I am come forth out of that First 🔑Mystery, which is the last 🔑mystery, that is the four-and-twentieth 🔑mystery." And his disciples have not known nor understood that anything existeth within that 🔑mystery; but they thought of that 🔑mystery, that it is the head of the universe and the head of all existence; and they thought it is the completion of all completions, because Jesus had said to them concerning that 🔑mystery, that it surroundeth the First Commandment and the five Impressions and the great 🌟Light | and the five Helpers and the whole Treasury of the 🌟Light.

@@ -1,5 +1,5 @@
 +++
-date = '2025-10-06T17:27:46+02:00'
+date = "2025-10-06T17:27:46+02:00"
 draft = false
 title = "Vitamin C: The Body’s Own Electrical Fuel"
 description = "How ascorbate powers the body's voltage, redox repair, and resilience systems."

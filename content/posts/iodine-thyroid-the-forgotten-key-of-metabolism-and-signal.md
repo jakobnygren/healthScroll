@@ -1,5 +1,5 @@
 +++
-date = '2025-10-09T17:27:46+02:00'
+date = "2025-10-09T17:27:46+02:00"
 draft = false
 title = "Iodine & Thyroid: The Forgotten Key of Metabolism and Signal"
 description = "From forgotten sea minerals to modern deficiency, this chapter explores iodine as the elemental key that governs metabolism, detox, cognition, and hormonal balance—revealing how halides, calcium, and missing cofactors can block the body’s natural rhythm and how restoring iodine resets the terrain."

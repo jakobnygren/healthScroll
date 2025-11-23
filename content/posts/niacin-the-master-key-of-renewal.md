@@ -1,5 +1,5 @@
 +++
-date = '2025-10-09T17:27:46+02:00'
+date = "2025-10-09T17:27:46+02:00"
 draft = false
 title = "Niacin: The Master Key of Renewal"
 description = "From pellagra to psychiatry and longevity, this chapter explores how niacin (vitamin B3) restores balance across energy, mind, and metabolism."

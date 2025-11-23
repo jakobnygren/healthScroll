@@ -1,6 +1,6 @@
 +++
 weight = 5
-date = '2025-10-13T13:56:00+02:00'
+date = "2025-10-13T13:56:00+02:00"
 draft = true
 title = "Gate 5 – The Mitochondrial Forge"
 description = "Reawakening cellular energy and metabolic repair by restoring mitochondrial function, NAD⁺ levels, and bioelectrical coherence."

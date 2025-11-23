@@ -2,7 +2,7 @@
 weight = 8
 title = "Gate 8 – The Signal Crown"
 description = "Restoring neurological conductivity and reconnecting the crown node to cosmic tone."
-date = '2025-10-13T14:10:00+02:00'
+date = "2025-10-13T14:10:00+02:00"
 draft = true
 tags = ["health", "gut", "microbiome", "detox", "terrain"]
 +++

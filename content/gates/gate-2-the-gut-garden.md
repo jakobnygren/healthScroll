@@ -1,6 +1,6 @@
 +++
 weight = 2
-date = 2025-10-13T00:00:00+02:00
+date = "2025-10-13T00:00:00+02:00"
 draft = true
 title = "Gate 2 – The Gut Garden"
 description = "A living ecosystem: restoring balance, rooting out invaders, and cultivating a terrain for transformation."

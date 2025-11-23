@@ -1,5 +1,5 @@
 +++
-date = '2025-10-06T17:27:46+02:00'
+date = "2025-10-06T17:27:46+02:00"
 draft = true
 title = "Lifespan Collapse in Ancient Texts"
 description = "..."

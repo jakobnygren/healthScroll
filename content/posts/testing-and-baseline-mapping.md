@@ -1,5 +1,5 @@
 +++
-date = '2025-10-09T17:27:46+02:00'
+date = "2025-10-09T17:27:46+02:00"
 draft = true
 title = "Testing & Baseline Mapping"
 description = "..."

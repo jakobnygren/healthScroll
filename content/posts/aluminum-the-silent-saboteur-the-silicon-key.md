@@ -1,5 +1,5 @@
 +++
-date = '2025-10-11T17:27:46+02:00'
+date = "2025-10-11T17:27:46+02:00"
 draft = false
 title = "Aluminum: The Silent Saboteur & The Silicon Key"
 description = "A deep dive into the disruptive biological effects of aluminum, based on the pioneering work of Dr. Christopher Exley — and how silicon offers a pathway to restore the body's internal signal coherence."

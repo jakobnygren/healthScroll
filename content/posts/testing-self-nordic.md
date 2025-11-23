@@ -1,5 +1,5 @@
 +++
-date = '2025-11-05T17:23:46+02:00'
+date = "2025-11-05T17:23:46+02:00"
 draft = true
 title = "Hormone Terrain Profile – Nordic Lab Analysis"
 description = "A terrain-informed synthesis of hormonal markers including cortisol, thyroid, testosterone, estrogen, and PSA, following iodine and boron protocol initiation."
