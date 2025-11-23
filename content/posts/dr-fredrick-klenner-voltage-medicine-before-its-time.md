@@ -4,7 +4,7 @@ draft = false
 title = "Dr. Fredrick Klenner – Voltage Medicine Before Its Time"
 description = "The forgotten physician who treated infection, pregnancy, and paralysis with the body’s own electrical fuel — vitamin C."
 tags = ["health", "orthomolecular", "vitamin-c", "klenner", "redox", "voltage-medicine"]
-+++
++++ 
 
 > **Disclaimer**  
 > This article is for informational and educational purposes only and does not constitute medical advice.  
