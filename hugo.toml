@@ -8,6 +8,9 @@ enableRobotsTXT = true
 mainSections = ["posts"]
 sectionPagesMenu = 'main'
 
+[params]
+disableGoogleAnalytics = true
+
 [params.assets]
 customCSS = ["css/custom.css"]
 
