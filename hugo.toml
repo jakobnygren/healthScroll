@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Health Articles"
+title = "The Terrain Codex"
 theme = "PaperMod"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -15,11 +15,14 @@ disableGoogleAnalytics = true
 customCSS = ["css/custom.css"]
 
 [params.homeInfoParams]
-Title = "Biological Sabotage & Terrain Recovery"
-Content = """Evidence-backed articles exploring environmental toxins, nutrient protocols, and bioelectric restoration. Integrating emerging research with reflective insight to support terrain-based health.
+Title = "The Terrain Codex"
+Content = """An archive of biological sabotage, nutrient restoration, and terrain-centered recovery.
+Where pattern recognition meets modern research — mapping the gates, metals, microbes, and energies that shape the human terrain.
 
 ---
 
 **Disclaimer**:
-This site is for informational and educational purposes only and does not constitute medical advice. The material presented here is based on published research, clinical observations, and historical use. Always consult a qualified healthcare professional before beginning any new supplement or health protocol, especially if you have preexisting conditions or are on medication.
+This site is for informational and educational purposes only and does not constitute medical advice.
+All material is derived from published research, clinical observations, and historical knowledge.
+Consult a qualified healthcare professional before beginning any new supplement or health protocol.
 """
