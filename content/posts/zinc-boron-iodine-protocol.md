@@ -8,8 +8,7 @@ draft = false
 
 ---
 
-# Cadmium Displacement & Endocrine Harmony Protocol  
-### *A Practical Overview of Zinc, Boron, Iodine & Heavy Metal Terrain Repair*
+### A Practical Overview of Zinc, Boron, Iodine & Heavy Metal Terrain Repair
 
 This document summarizes how zinc, boron, iodine, magnesium, and supporting nutrients work together to displace cadmium, restore endocrine balance, and repair terrain damage caused by smoking history, low stomach acid, mineral imbalance, and oxidative stress.
 
@@ -17,7 +16,7 @@ It is written as a compact mini‑review, useful for sharing with others, and st
 
 ---
 
-## **1. Why Cadmium Matters**
+## 1. Why Cadmium Matters
 Cadmium is a slow‑moving toxic metal with a biological half‑life of **10–30 years**. It accumulates in:
 
 - kidneys  
@@ -26,7 +25,7 @@ Cadmium is a slow‑moving toxic metal with a biological half‑life of **10–3
 - testicles  
 - endocrine glands  
 
-### **How cadmium disrupts biology**
+### How cadmium disrupts biology
 Cadmium:
 
 - displaces zinc at over 300 enzyme sites  
@@ -39,7 +38,7 @@ Cadmium:
 - promotes fungal growth  
 - suppresses metallothionein function (the body's metal‑binding protein)
 
-### **Smoking history**
+### Smoking history
 Cadmium exposure is **10–20× higher** in smokers.
 
 Years of smoking create a deep reservoir of stored cadmium in the kidney cortex and bones. Even after quitting, cadmium remains for decades unless actively displaced.
@@ -48,10 +47,10 @@ This protocol is built precisely to counter that.
 
 ---
 
-## **2. Why Zinc Works (Mechanisms)**
+## 2. Why Zinc Works (Mechanisms)
 Zinc is the *primary antidote* to cadmium — not because it chelates cadmium directly, but because it **out‑competes it biologically**.
 
-### **Mechanisms**
+### Mechanisms
 1. **Metallothionein activation**  
    Zinc increases metallothionein, which binds cadmium and escorts it out through bile and kidneys.
 
@@ -64,16 +63,16 @@ Zinc is the *primary antidote* to cadmium — not because it chelates cadmium di
 4. **Anti‑inflammatory repair**  
    Zinc reduces oxidative stress caused by cadmium.
 
-### **Why high doses are needed**
+### Why high doses are needed
 Low or moderate zinc does **not** displace cadmium.  
 Effective detox requires **50–100 mg/day** long term (6–12 months minimum).
 
 ---
 
-## **3. Why Boron Works (Mechanisms)**
+## 3. Why Boron Works (Mechanisms)
 Boron is the *silent amplifier* of zinc and magnesium.
 
-### **Mechanisms**
+### Mechanisms
 1. **Increases magnesium retention**  
    Magnesium is required for metallothionein function; boron prevents magnesium loss.
 
@@ -90,7 +89,7 @@ A 70 mg dose, 3–4 days/week, is strong but biologically coherent.
 
 ---
 
-## **4. Why Iodine Matters**
+## 4. Why Iodine Matters
 Iodine (50 mg Lugol/Hakala style) supports:
 
 - halide detox  
@@ -104,9 +103,9 @@ Iodine increases the metabolic “push” that makes zinc‑driven cadmium remov
 
 ---
 
-## **5. Weekly Rhythm (Practical Protocol)**
+## 5. Weekly Rhythm (Practical Protocol)
 
-### **Hard Days (Mon/Wed/Fri)**
+### Hard Days (Mon/Wed/Fri)
 **Morning (fasted):**  
 - Iodine 50 mg  
 - Boron 70 mg  
@@ -124,7 +123,7 @@ Iodine increases the metabolic “push” that makes zinc‑driven cadmium remov
 
 ---
 
-### **Medium Days (Tue/Sat)**
+### Medium Days (Tue/Sat)
 **Morning:**  
 - Iodine 50 mg  
 - Vitamin C  
@@ -137,7 +136,7 @@ Iodine increases the metabolic “push” that makes zinc‑driven cadmium remov
 
 ---
 
-### **Soft Days (Thu/Sun)**
+### Soft Days (Thu/Sun)
 **Morning:**  
 - Vitamin C  
 
@@ -149,29 +148,29 @@ Iodine increases the metabolic “push” that makes zinc‑driven cadmium remov
 
 ---
 
-## **6. Month‑by‑Month Detox Curve (What to Expect)**
+## 6. Month‑by‑Month Detox Curve (What to Expect)
 
-### **Month 1–2:**  
+### Month 1–2:  
 - metallothionein rises  
 - cadmium begins mobilizing  
 - mild detox symptoms possible  
 
-### **Month 3–6:**  
+### Month 3–6:  
 - kidney & bone cadmium begins leaving  
 - testosterone improves  
 - inflammation lowers  
 
-### **Month 6–12:**  
+### Month 6–12:  
 - deeper tissue repair  
 - endocrine rhythm stabilizes  
 - mental clarity returns  
 
-### **12+ months:**  
+### 12+ months:  
 Significant cadmium unloading and mineral restoration.
 
 ---
 
-## **7. Safety Notes**
+## 7. Safety Notes
 - High zinc requires monitoring copper intake (your multivitamin covers this).  
 - Magnesium is essential nightly to stabilize voltage and nerves.  
 - Boron is safe 3–4 days/week at 70 mg when paired with magnesium and D3/K2.  
@@ -179,7 +178,7 @@ Significant cadmium unloading and mineral restoration.
 
 ---
 
-## **8. Mythic Layer (Optional but Memorable)**
+## 8. Mythic Layer (Optional but Memorable)
 
 - **Iodine — The Flame Key**  
   Ignites metabolism, reveals what is false, purifies the terrain.
@@ -201,7 +200,7 @@ Significant cadmium unloading and mineral restoration.
 
 ---
 
-## **9. Summary**
+## 9. Summary
 This protocol:
 
 - restores minerals damaged by smoking  
