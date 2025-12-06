@@ -1,8 +1,8 @@
 +++
 date = "2025-12-06T17:23:46+02:00"
-draft = true 
+draft = false 
 title = "Book I — The Hydra: The Geometry Of Collapse"
-description = "An introduction to collapse geometry and the symbolic figure of the Hydra."
+description = "WIP. NOT DONE. An introduction to collapse geometry and the symbolic figure of the Hydra."
 +++
 
 > *When coherence falters, entropy takes form — a pattern myth later embodied as the Hydra.*
