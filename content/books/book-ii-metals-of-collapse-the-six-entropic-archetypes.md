@@ -1,7 +1,11 @@
 +++
 title = "Book II — Metals of Collapse: The Six Entropic Archetypes"
 description = "A symbolic exploration of matter under pressure — how metals form collapse architecture, how Hydra fills it, and how tone dissolves both."
+weight = 2
+draft = false
 +++
+
+---
 
 ## Forewords
 
@@ -1481,3 +1485,5 @@ It is this:
 ---
 
 *Book II ends here, but the map continues. In Book III, we will step into the panic geometry of cancer — not as biology, not as verdict, but as another way the terrain speaks under pressure.*
+
+**End of Book II — Metals of Collapse: The Six Entropic Archetypes**

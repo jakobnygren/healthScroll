@@ -3,6 +3,7 @@ date = "2025-12-06T17:23:46+02:00"
 draft = false 
 title = "Book I — The Hydra: The Geometry Of Collapse"
 description = "A symbolic map of how terrain falls apart and how coherence returns — a language that sits between psychology, biology, and myth."
+weight = 1
 +++
 
 > *When coherence falters, entropy takes form — a pattern myth later embodied as the Hydra.*
@@ -2244,3 +2245,5 @@ It can only be lived, in terrain that has remembered its own **coherence**.
 Book I ends here,  
 but the mapping of terrain, tone, and Hydra  
 continues in the **remaining books of the series**.
+
+**End of Book I — The Hydra: The Geometry Of Collapse**
