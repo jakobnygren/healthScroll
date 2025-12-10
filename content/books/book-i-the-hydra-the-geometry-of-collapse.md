@@ -368,7 +368,8 @@ In truth, it is **bandwidth collapse** expressing itself through perception.
 **Hydra** requires three conditions:
 
 1. reduced **bandwidth**  
-2. weakened **tone**  \n3. a **terrain** that cannot sustain complexity
+2. weakened **tone**
+3. a **terrain** that cannot sustain complexity
 
 This is why **Hydra** does not appear in states of:
 
@@ -473,7 +474,10 @@ A lens overlay tilts reality in a specific direction — toward danger, disappoi
 
 Signs:
 
-- interpreting neutral events as threats  \n- expecting failure before acting  \n- projecting past outcomes onto new situations  \n- assigning negative meaning without evidence
+- interpreting neutral events as threats
+- expecting failure before acting
+- projecting past outcomes onto new situations
+- assigning negative meaning without evidence
 
 Lens overlays narrow **signal** by shaping *what enters* awareness.
 
@@ -485,7 +489,10 @@ Identity overlays form when the terrain can no longer hold a stable sense of “
 
 Signs:
 
-- “I always make mistakes.”  \n- “I can’t handle this.”  \n- “People like me don’t succeed.”  \n- “Something is wrong with me.”
+- “I always make mistakes.”
+- “I can’t handle this.”
+- “People like me don’t succeed.”
+- “Something is wrong with me.”
 
 Identity overlays narrow **signal** by shaping *who you believe you are*.
 
@@ -497,7 +504,10 @@ A narrative overlay supplies a storyline that explains collapse — but incorrec
 
 Signs:
 
-- “This is happening because nothing ever works out for me.”  \n- “Things fall apart because the world is against me.”  \n- “If I don’t control everything, everything will fail.”  \n- “My value depends on how much I endure.”
+- “This is happening because nothing ever works out for me.”
+- “Things fall apart because the world is against me.”
+- “If I don’t control everything, everything will fail.”
+- “My value depends on how much I endure.”
 
 Narrative overlays narrow **signal** by shaping *why you believe events happen*.
 
@@ -509,7 +519,10 @@ Together, the three overlays create a perception system that is no longer spacio
 
 Overlays distort the relationship between:
 
-- what is happening  \n- what is perceived  \n- what is understood  \n- what is feared
+- what is happening
+- what is perceived
+- what is understood
+- what is feared
 
 This creates a subtle internal fog.
 
@@ -518,18 +531,24 @@ Things appear closer, heavier, or more dangerous than they are.
 
 Overlays mimic Hydra fog in three ways:
 
-1. **They distort scale**  \n   Small problems feel large.  
-   Minor tensions feel existential.
+1. **They distort scale**  
+   - Small problems feel large.  
+   - Minor tensions feel existential.
 
-2. **They distort direction**  \n   The system loses its internal compass.  
-   Decisions become difficult or endlessly delayed.
+2. **They distort direction**    
+   - The system loses its internal compass.  
+   - Decisions become difficult or endlessly delayed.
 
-3. **They distort identity**  \n   The self feels fragile or undefined.  
-   Responses feel reactive instead of chosen.
+3. **They distort identity**     
+   - The self feels fragile or undefined.  
+   - Responses feel reactive instead of chosen.
 
 Hydra takes shape only when overlays have narrowed perception enough that the terrain can no longer tell the difference between:
 
-- signal and noise  \n- danger and discomfort  \n- complexity and threat  \n- uncertainty and collapse
+- signal and noise
+- danger and discomfort
+- complexity and threat
+- uncertainty and collapse
 
 Overlays prepare the terrain for collapse.
 
@@ -542,11 +561,15 @@ They arise when **tone** weakens.
 
 A weakened tone has:
 
-- less capacity to filter noise  \n- less ability to stabilize identity  \n- less resilience against emotional shocks
+- less capacity to filter noise  
+- less ability to stabilize identity  
+- less resilience against emotional shocks
 
 When tone drops:
 
-- lens overlays distort perception  \n- identity overlays distort self-understanding  \n- narrative overlays distort meaning
+- lens overlays distort perception  
+- identity overlays distort self-understanding  
+- narrative overlays distort meaning
 
 Tone is the foundation.  
 Overlays are the cracks that appear when the foundation thins.
@@ -561,7 +584,9 @@ Overlays function like early warning markers — subtle indicators that the syst
 
 Each type predicts a different form of collapse:
 
-- **Lens overlays** predict corridors of overreaction.  \n- **Identity overlays** predict nodes of fragility.  \n- **Narrative overlays** predict spirals of misinterpretation.
+- **Lens overlays** predict corridors of overreaction.  
+- **Identity overlays** predict nodes of fragility.  
+- **Narrative overlays** predict spirals of misinterpretation.
 
 Overlays do not create Hydra.  
 They *shape the terrain* Hydra will later occupy.
@@ -595,7 +620,12 @@ they are the easiest parts of the terrain to soften.
 
 When tone rises:
 
-- lens overlays loosen  \n- identity overlays lose authority  \n- narrative overlays fall apart  \n- perception widens  \n- meaning clarifies  \n- the self regains continuity
+- lens overlays loosen  
+- identity overlays lose authority  
+- narrative overlays fall apart  
+- perception widens  
+- meaning clarifies  
+- the self regains continuity
 
 Overlays dissolve *before* Hydra does.  
 They are the first signs that **coherence** is returning.
@@ -639,19 +669,19 @@ When **tone** weakens and **signal** constricts, the entire map of reality shift
 Fear reshapes perception in three ways:
 
 1. **Compression of space**  
-   Problems feel closer than they are.  
-   Time feels shorter than it is.  
-   Breathing room disappears.
+   - Problems feel closer than they are.  
+   - Time feels shorter than it is.  
+   - Breathing room disappears.
 
 2. **Magnification of threat**  
-   Minor conflicts feel catastrophic.  
-   Delays feel like permanent blocks.  
-   Unknowns feel like inevitable failures.
+   - Minor conflicts feel catastrophic.  
+   - Delays feel like permanent blocks.  
+   - Unknowns feel like inevitable failures.
 
 3. **Reduction of options**  
-   The mind forgets alternatives.  
-   Every choice feels like a trap.  
-   “All-or-nothing” becomes the default frame.
+   - The mind forgets alternatives.  
+   - Every choice feels like a trap.  
+   - “All-or-nothing” becomes the default frame.
 
 This is not irrationality.  
 It is **a terrain operating with insufficient bandwidth**, forced to oversimplify in order to cope.
