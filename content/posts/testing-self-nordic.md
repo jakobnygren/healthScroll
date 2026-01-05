@@ -91,3 +91,46 @@ This terrain shows **robust anabolic signals**, clean cortisol rhythm, strong th
 ### Closing Note
 
 This profile reflects a **resilient, recalibrating terrain** entering a new metabolic phase. The iodine/boron axis is activating deep endocrine circuits, and the system appears to be responding with strength, agility, and only minor transitional turbulence.
+
+---
+
+### Optional Add-On Markers – Consider for a Broader Terrain View
+
+If repeating this panel or recommending it to others, the following markers are highly relevant for mapping endocrine terrain and long-term vitality:
+
+#### 🔹 Core Androgens
+- **Total Testosterone** – foundation of anabolic tone
+- **Free Testosterone (calculated via T/SHBG ratio)** – functional signal strength
+- **DHEAS (Dehydroepiandrosterone sulfate)** – adrenal reserve and anti-aging marker
+- **SHBG (Sex Hormone Binding Globulin)** – transport protein affecting availability
+
+#### 🔹 Estrogen Balance
+- **Estradiol (E2)** – most bioactive estrogen
+- **Estrone (E1)** – estrogenic buffer and detox marker
+- **Progesterone** – estrogen modulator, neuroprotective
+
+#### 🔹 Thyroid Axis
+- **TSH** – master gland signal (may rise during iodine use)
+- **Free T3 and Free T4** – active and reserve thyroid hormone
+- **TPO antibodies** – rule out autoimmunity
+
+#### 🔹 Inflammation & Prostate
+- **PSA** – tracks prostate burden and inflammation
+- **Zinc (serum or RBC)** – important for prostate, immunity, and hormone balance
+- **CRP / hs-CRP** – optional, for general inflammation status
+
+---
+
+### Notes for Friends Considering Testing
+
+- If testosterone is the main focus, also include **SHBG and DHEAS** for meaningful interpretation.
+- To understand how hormones move and convert, **estradiol, estrone, and progesterone** provide crucial insight.
+- Thyroid markers add depth and show **how well the body is metabolizing hormones**, especially after iodine/boron use.
+
+For best results:
+- Avoid heavy training, alcohol, or zinc supplementation for 48 hours before testing.
+- If using iodine or boron, note how many weeks in — these can **shift hormonal signaling** and affect interpretation.
+
+--- 
+
+_This expanded panel is suited for individuals exploring terrain-based or longevity-aware hormone mapping._
