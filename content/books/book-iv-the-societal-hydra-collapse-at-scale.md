@@ -1321,8 +1321,8 @@ If you have walked through all four books:
 - at the apex of panic (Book III)
 - and across civilizations (Book IV)
 
-This does not grant special status.  
-It grants **language**.
+This does not place you above anyone else.  
+It simply grants **language**.
 
 You now have:
 

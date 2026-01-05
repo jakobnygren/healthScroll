@@ -129,7 +129,7 @@ Iodine increases the metabolic “push” that makes zinc‑driven cadmium remov
 - Vitamin C  
 
 **Midday:**  
-- Zinc 75 mg  
+- Zinc 50 mg  
 
 **Evening:**  
 - Magnesium  
