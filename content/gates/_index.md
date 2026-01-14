@@ -41,4 +41,17 @@ The goal is not merely detoxification — but reactivation of inner tone, signal
 
 ---
 
+### A Note on Language and Symbolism
+
+Throughout these scrolls, you’ll see terms like *tone*, *signal*, *collapse*, and *gate*. These are not just poetic flourishes — they are functional metaphors.
+
+- **Tone** — the body’s resonance and coherence. It reflects how well systems hold integrity under stress.
+- **Signal** — the intelligent communication within the terrain: hormones, neurotransmitters, microbial messaging, and even subtle perception.
+- **Collapse** — not just disease, but loss of regulation and pattern. A breach in coherence.
+- **Gate** — a bio-spiritual checkpoint. Each gate reflects a functional system and a layer of reconnection.
+
+This symbolic language reawakens memory — in the cells, and beyond.
+
+---
+
 You may begin at any Gate. But foundational digestive restoration often empowers the rest.
