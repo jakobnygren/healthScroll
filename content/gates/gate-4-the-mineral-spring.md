@@ -19,7 +19,7 @@ The body is a living conduit of bioelectric charge. For that charge to flow, it 
 - Bottled water = demineralized, dead  
 - Glyphosate = mineral chelation, calcium mimicry  
 - Tap water = fluoride, chlorine, and wrong structure  
-- RO water = stripped of charge and trace elements  
+- RO (Reverse Osmosis) water = stripped of charge and trace elements  
 - Supplement confusion: wrong forms, wrong timing, wrong synergy  
 - Magnesium depletion = modern plague  
 - Boron = erased from agriculture and public awareness  
