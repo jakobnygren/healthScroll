@@ -5,6 +5,16 @@ description = "Long-form symbolic scrolls exploring the architecture of terrain,
 
 These four symbolic books form a unified map of collapse, terrain, tone, and awakening — moving from the inner kingdom, to its infrastructures, to its pressure patterns, and finally to its expression at collective scale.
 
+---
+
+## 🗝️ Companion Text — The Symbolic Key
+*A reader’s orientation guide*
+
+A short companion text explaining how to read the Collapse Geometry books without mistaking metaphor for mechanism.
+It clarifies how symbolism is used, what the books deliberately avoid, and how multiple interpretations can coexist safely.
+
+This text is optional, but recommended for readers who want orientation without losing the symbolic experience.
+
 ## 🐍 Book I — The Hydra: The Geometry of Collapse
 A symbolic map of how terrain falls apart and how coherence returns.  
 Not psychology, not biology, not metaphysics — but a language that can hold all three.  
